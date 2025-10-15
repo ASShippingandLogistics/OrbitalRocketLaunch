@@ -19,6 +19,7 @@ Submit your rocket design. If it wins, we’ll build it, launch it, and give you
 • Avionics layout and wiring diagram
 • Safety notes and failure modes
 • 1-page design rationale
+ Submit via email to outreachasshippinglogistics@gmail.com
 
 🏆 What You Win
 
@@ -30,10 +31,10 @@ Submit your rocket design. If it wins, we’ll build it, launch it, and give you
 
 Timeline
 
-• Challenge opens: 20 October 2025
-• Submissions close: 30 November 2025
-• Winner announced: 8 December 2025
-• Build begins: January 2026
+• Challenge opens: 15 October 2025
+• Submissions close: 15 November 2025
+• Winner announced: 20 November 2025
+• Build begins: December 2025
 • Launch target: Summer 2026
 
 Legal & IP
