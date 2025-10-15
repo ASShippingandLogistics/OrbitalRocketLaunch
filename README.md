@@ -10,7 +10,7 @@ Submit your rocket design. If it wins, we’ll build it, launch it, and give you
 • Max dry mass: 400 kg
 • Must include separation system, avionics bay, and thrust profile
 • No exotic propellants or unlicensed materials
-
+• Build price must not exceed 80.000£
 📁 What to Submit
 
 • CAD files (STEP or STL)
